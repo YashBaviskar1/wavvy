@@ -5,3 +5,4 @@ test.rest/
 api\migrations\__pycache__/
 api\__pycache__/
 test.rest
+salon_backend\settings.py
